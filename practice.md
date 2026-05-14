@@ -1,7 +1,7 @@
 # Lab 1 - Tristan Ko
 
 Tristan Ko
-may 14, 2026. 
+May 14, 2026. 
 
 ## What I learned 
 
