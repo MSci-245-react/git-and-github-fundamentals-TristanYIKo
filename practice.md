@@ -15,7 +15,8 @@ const x = 5;
 console.log(x)
 ```
 
-Output: 
+
+Output:
 ```
 0.30000000000000004
 'object'
