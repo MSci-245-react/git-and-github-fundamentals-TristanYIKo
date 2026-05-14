@@ -1,6 +1,6 @@
 # Lab 1 - Tristan Ko
 
-Tristan Ko
+Tristan Ko - Assnignment Lab 1
 May 14, 2026. 
 
 ## What I learned 
