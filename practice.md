@@ -1,5 +1,8 @@
 # Lab 1 - Tristan Ko
 
+Tristan Ko
+may 14, 2026. 
+
 ## What I learned 
 
 I learned that when you use equalities, you should use "===" rather than "==". 
